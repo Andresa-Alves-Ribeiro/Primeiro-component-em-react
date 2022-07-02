@@ -9,7 +9,7 @@
 
 
 ## 🚀 Bibliotecas
-- React
+- REACT
 
 ## 💻 Projeto
 Primeiro componente em React é uma página no formato One Page. Projeto desenvolvido durante o Bootcamp Inter Front-end realizados pela Digital Innovation One (DIO) em Janeiro/2022.
